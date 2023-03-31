@@ -1,0 +1,11 @@
+{
+    "URLS": {
+        "BASE_URL": "https://webscraper.io",
+        "HOME": "https://webscraper.io/test-sites/e-commerce/allinone",
+        "POPUP": "https://webscraper.io/test-sites/e-commerce/allinone-popup-links"
+    },
+    "SIDEBAR": {"tag": "div", "name": "col-md-3 sidebar"},
+    "HOME": {"tag": "div", "name": "row"},
+    "ITEMS": {"tag": "div", "name": "col-sm-4 col-lg-4 col-md-4"},
+    "PROPS": ["price", "title", "description", "ratings"]
+}
