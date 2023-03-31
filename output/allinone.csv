@@ -1,4 +1,4 @@
-price,title,description,reviews,ratings
-$1033.99,ThinkPad Yoga,"12.5"" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",13,2
-$1769.00,Asus ROG Strix G...,"Asus ROG Strix GL702ZC-GC209T, 17.3"" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",8,1
-$1333.00,Apple MacBook Pr...,"Apple MacBook Pro 13"" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG",0,1
+memories,price,description,reviews,ratings
+"[128, 256, 512, 1024]","['$1133.82', '$1153.82', '$1173.82', '$1193.82']","Dell Latitude 5480, 14"" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro",14,4
+"[128, 256, 512, 1024]","['$1123.87', '$1143.87', '$1163.87', '$1183.87']","Acer Aspire 7 A715-71G, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",4,2
+"[128, 256, 512, 1024]","['$1096.02', '$1116.02', '$1136.02', '$1156.02']","Lenovo ThinkPad L460, 14"" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",14,4
